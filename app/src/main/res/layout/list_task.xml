@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/white">
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/seven_star_custom_without_text"/>
+
+    <TextView
+        android:id="@+id/task_custom_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:textSize="15sp"/>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:layout_marginRight="20dp"
+        android:src="@drawable/seven_star_enter"/>
+
+
+</LinearLayout>

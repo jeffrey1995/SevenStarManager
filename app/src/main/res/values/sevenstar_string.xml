@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--configuration-->
+    <string name="url_host">http://182.92.198.132:8080/</string>
+    <!--登录-->
+    <string name="url_login">employee/login</string>
+    <!-- 抢单服务列表 -->
+    <string name="url_order_list">grab/list</string>
+    <!-- 抢单 -->
+    <string name="url_grab_order">grab/confirm</string>
+    <!-- 培训信息列表 -->
+    <string name="url_train_information">employee/train</string>
+    <!-- 员工培训报名 -->
+    <string name="url_train_sign_up">train/enroll</string>
+    <!-- 员工收入查看 -->
+    <string name="url_income_check">employee/salary</string>
+    <!-- 员工任务列表 -->
+    <string name="url_task_list">employee/task</string>
+    <!-- 员工推荐列表 -->
+    <string name="url_push_list">push/list</string>
+    <!-- 员工客户列表 -->
+    <string name="url_custom_list">push/user</string>
+    <!-- 员工推荐加入记录 -->
+    <string name="url_push_add">push/add</string>
+    <!-- 员工上传开始任务信息 -->
+    <string name="url_task_choose">task/choose</string>
+    <!--员工上传任务报告-->
+    <string name="url_task_report">task/report</string>
+
+    <!-- 腾讯地图定位KEY -->
+    <string name="tencent_map_key">JJ5BZ-VM3WX-UCF4W-72QMD-CROHT-T2F6T</string>
+
+
+    <!--登录界面-->
+    <string name="account">账号:</string>
+    <string name="password">密码:</string>
+    <string name="remenber">记住密码</string>
+    <string name="login">登录</string>
+    <!--个人信息-->
+    <string name="title">个人信息</string>
+    <string name="real_name">姓名:</string>
+    <string name="grade">等级:</string>
+    <string name="exit">退出</string>
+
+    <!-- 抢单服务 -->
+    <string name="order_service">抢单服务</string>
+    <string name="custom_name">客户名</string>
+    <string name="location">地点</string>
+    <string name="time">时间</string>
+    <string name="content">服务内容</string>
+    <string name="last_page">上一页</string>
+    <string name="next_page">下一页</string>
+    <string name="di">第</string>
+    <string name="page">页</string>
+    <string name="middle">/</string>
+    <string name="order">抢单</string>
+
+    <!-- 培训信息 -->
+    <string name="train_information">培训信息</string>
+    <string name="course_type">课程类型</string>
+    <string name="train_course">培训课</string>
+
+    <!-- 收入查看 -->
+    <string name="income_check">收入查看</string>
+    <string name="base_salary">基本工资</string>
+    <string name="perform_salary">绩效工资</string>
+    <string name="commission_salary">提成工资</string>
+    <string name="penalty">罚款</string>
+    <string name="bonus">奖金</string>
+    <string name="salary">应发工资</string>
+    <string name="real_salary">实发工资</string>
+    <string name="social_insurance">社会保险</string>
+    <string name="health_insurance">医疗保险</string>
+    <string name="accumulation_fund">公积金</string>
+    <string name="tax">个人所得税</string>
+    <string name="other_add">其他加项</string>
+    <string name="other_sub">其他减项</string>
+    <string name="grant_date">发放时间</string>
+
+    <!-- 任务列表 -->
+    <string name="task_list">任务列表</string>
+    <string name="task_detail">任务详细</string>
+    <string name="user_name">用户姓名</string>
+    <string name="contact_tel">联系电话</string>
+    <string name="task_date">日期</string>
+    <string name="task_time">时间</string>
+    <string name="task_address">任务地点</string>
+    <string name="task_introduction">任务说明</string>
+    <string name="task_target">任务目标</string>
+    <string name="task_notice">注意事项</string>
+
+    <!-- 员工推荐 -->
+    <string name="push_list">推荐列表</string>
+    <string name="good_name">商品名</string>
+    <string name="good_type">商品类别</string>
+    <string name="merchant_name">商家</string>
+    <string name="sell_price">售价</string>
+    <string name="custom_list">客户列表</string>
+    <!--任务报告-->
+    <string name="title_task_report">任务报告</string>
+    <string name="hint_task_report">写下你的任务记录</string>
+    <string name="uploading">上传报告</string>
+    <!--临时图片文件保存路径-->
+    <string name="path_temp_image">/temp.png</string>
+
+
+    <string name="multiface_crop_help">选择一张面孔</string>
+    <string name="wallpaper">设为壁纸</string>
+    <string name="savingImage">正在保存</string>
+    <string name="runningFaceDetection">请稍候</string>
+</resources>
