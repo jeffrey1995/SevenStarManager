@@ -1,2 +1,2 @@
 # SevenStarManager
-七星管家客户端源码
+“七星管家”客户端源码
